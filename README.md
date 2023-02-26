@@ -4,4 +4,4 @@
 
 # Configuration
 Edit signin.html:<br>
-![photo](https://github.com/n0nexist/Youtube-Phishing-Page/blob/main/screenshot.png?raw=true)
+![photo](https://user-images.githubusercontent.com/111337838/221431796-05e7f7b3-a991-4bc8-a649-e9ad6d2b5b9e.png)
